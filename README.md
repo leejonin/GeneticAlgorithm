@@ -13,7 +13,7 @@ npm run dev
 
 `main` 브랜치 push 시 Actions로 배포됩니다.
 
-- URL: `https://<GitHub사용자명>.github.io/GeneticAlgorithm/`
+- URL: https://leejonin.github.io/GeneticAlgorithm/
 
 ## 문서
 
